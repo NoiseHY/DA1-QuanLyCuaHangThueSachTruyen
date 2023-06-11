@@ -16,7 +16,7 @@ namespace Đồ_án_1__Quản_lí_cho_thuê_Sách_Truyện
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GUI_Info());
+            Application.Run(new GUI_DangNhap());
         }
     }
 }
